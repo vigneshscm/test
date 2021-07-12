@@ -1,0 +1,31 @@
+.body {
+  background-color: blanchedalmond;
+}
+.h2 {
+  color: rgb(235, 20, 20);text-align: left;
+}
+.p {
+  color: red;
+}
+.a {
+  color: rgb(243, 36, 9);
+}
+.table{
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+td, th {
+  border: 1px solid #46030c;
+  text-align: left;
+  padding: 8px;
+}
+#myHeader {
+  background-color: lightblue;
+  color: rgb(32, 18, 230);
+  padding: 20px;
+  text-align: center;
+}
+p.caps{
+  text-transform: capitalize;
+}
